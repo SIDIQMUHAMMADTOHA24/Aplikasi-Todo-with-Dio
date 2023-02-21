@@ -7,4 +7,6 @@ Fiktur :
 Rest Api :
 Dio
 
-Flutter Material 3
+more info :
+use = Flutter Material 3
+extension = Flutter Hyper Extensions by deny ocr
